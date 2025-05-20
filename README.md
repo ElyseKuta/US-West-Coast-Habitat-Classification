@@ -1,7 +1,8 @@
 # US-West-Coast-Habitat-Classification
 A guide to developing non-hierarchical habitat classifications using open-source data and software based on the original R Tutorial by Amelia Bridges and updated to include specific code for the United States West Coast.
 
-**About this Repository **
+# **About this Repository **
+
 This series of code was developed by scientists in the University of Plymouth's Deep Sea Conservation Research Unit as part of a pipeline to assist delegates of the 'Habitat Conservation and Marine Spatial Planning' workshop at the Deep Ocean Collective Solution Accelerator Meeting (Scripps Institution of Oceanography, 2-5th October 2023) in developing regional benthic habitat classifications. The pipeline mirrors that used in McQuaid et al. (2023).
 
 This series of code was added onto by the intern working group between the 'Habitat Conservation and Marine Spatial Planning' working group at the Deep Ocean Observing Strategy and the University of California San Diego's Environmental Systems Senior Intern at Scripps Institute of Oceanography. This addition to the code is representative of the United States West Coast using the FISHGLOB_data extent and data as the delimiter. This series of code can be added to or replicated to represent different data sets. 
